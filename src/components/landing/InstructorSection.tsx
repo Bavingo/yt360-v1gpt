@@ -47,7 +47,7 @@ const InstructorSection = () => {
 </div>
               
               {/* Floating badge - top right - Dark background for contrast */}
-              <div className="absolute -bottom-4 -right-4 md:bottom-6 md:-right-4">
+              <div className="absolute -top-6 -right-4 md:top-6 md:-right-4">
                 <div className="bg-foreground/95 backdrop-blur-sm border border-white/20 rounded-2xl p-4 shadow-2xl">
                   <div className="flex items-center gap-3">
                     <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center">
@@ -62,7 +62,7 @@ const InstructorSection = () => {
               </div>
               
               {/* Floating badge - bottom left - Dark background for contrast */}
-              <div className="absolute -bottom-4 -left-4 md:bottom-6 md:-left-6">
+              <div className="absolute -bottom-6 -left-4 md:bottom-6 md:-left-4">
                 <div className="bg-foreground/95 backdrop-blur-sm border border-white/20 rounded-2xl p-4 shadow-2xl">
                   <div className="flex items-center gap-3">
                     <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center">
