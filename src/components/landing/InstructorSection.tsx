@@ -32,13 +32,12 @@ const InstructorSection = () => {
             
             <div className="relative">
              {/* Main image container */}
+               <div className="relative w-72 h-72 md:w-96 md:h-96 flex items-center justify-center">
+                {/* Halo externo (fundinho cinza) */}
+                  <div className="absolute inset-0 rounded-full bg-white/5"></div>
 
-                <div className="relative w-72 h-72 md:w-96 md:h-96 flex items-center justify-center">
-  {/* Halo externo (fundinho cinza) */}
-  <div className="absolute inset-0 rounded-full bg-white/5"></div>
-
-  {/* Círculo com borda */}
-  <div className="relative w-full h-full rounded-full overflow-hidden border border-white/10 shadow-2xl">
+                  {/* Círculo com borda */}
+                    <div className="relative w-full h-full rounded-full overflow-hidden border border-white/10 shadow-2xl">
     <img 
       src="/placas.png"
       alt="Caique Pereira - Fundador da Escola para YouTubers" 
@@ -46,11 +45,9 @@ const InstructorSection = () => {
     />
   </div>
 </div>
-
-
               
               {/* Floating badge - top right - Dark background for contrast */}
-              <div className="absolute -top-4 -right-4 md:top-6 md:-right-6">
+              <div className="absolute -bottom-4 -right-4 md:top-6 md:-right-6">
                 <div className="bg-foreground/95 backdrop-blur-sm border border-white/20 rounded-2xl p-4 shadow-2xl">
                   <div className="flex items-center gap-3">
                     <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center">
@@ -65,7 +62,7 @@ const InstructorSection = () => {
               </div>
               
               {/* Floating badge - bottom left - Dark background for contrast */}
-              <div className="absolute -bottom-4 -left-4 md:bottom-6 md:-left-6">
+              <div className="absolute -top-4 -left-4 md:bottom-6 md:-left-6">
                 <div className="bg-foreground/95 backdrop-blur-sm border border-white/20 rounded-2xl p-4 shadow-2xl">
                   <div className="flex items-center gap-3">
                     <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center">
