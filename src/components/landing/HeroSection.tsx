@@ -26,14 +26,6 @@ const HeroSection = () => {
               <Youtube className="w-4 h-4 mr-2" />
               Escola para YouTubers
             </Badge>
-            <Badge className="bg-white/5 border border-white/10 text-primary-foreground px-4 py-2 text-sm backdrop-blur-sm">
-              <Users className="w-4 h-4 mr-2" />
-              1.4M de inscritos
-            </Badge>
-            <Badge className="bg-white/5 border border-white/10 text-primary-foreground px-4 py-2 text-sm backdrop-blur-sm">
-              <Award className="w-4 h-4 mr-2" />
-              Parceiro interno do YouTube
-            </Badge>
           </div>
 
           {/* Main headline */}
