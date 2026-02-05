@@ -91,10 +91,7 @@ const TrackPhase1Section = () => {
                 <FileText className="w-6 h-6 text-emerald-400" />
               </div>
               
-              {/* Number display */}
-              <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 bg-gradient-to-r from-emerald-500 to-emerald-600 text-white font-bold text-xl px-6 py-3 rounded-full shadow-lg">
-                0 → 10 mil
-              </div>
+              
             </div>
           </div>
         </div>
