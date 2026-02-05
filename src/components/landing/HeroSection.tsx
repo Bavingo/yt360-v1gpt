@@ -32,19 +32,15 @@ const HeroSection = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-[1.1] tracking-tight">
             Transforme seu canal em um{" "}
             <span className="relative inline-block">
-              <span className="text-primary">negócio no YouTube</span>
+              <span className="text-primary">negócio lucrativo no YouTube</span>
               <Sparkles className="absolute -top-4 -right-6 w-6 h-6 text-primary animate-pulse" />
             </span>
             <br />
-            <span className="text-muted-foreground text-3xl md:text-4xl lg:text-5xl font-normal mt-4 block">
-              O método completo para crescer, escalar e viver do seu canal no YouTube
-            </span>
           </h1>
 
           {/* Subtitle */}
           <p className="text-lg md:text-xl text-muted-foreground/80 mb-12 max-w-2xl mx-auto leading-relaxed">
-            Aprenda o passo a passo que levou a Escola para YouTubers a mais de 
-            1.4 milhões de inscritos em mais de 10 anos de experiência real.
+            O método completo para crescer, escalar e viver do seu canal no YouTube
           </p>
 
           {/* CTA */}
