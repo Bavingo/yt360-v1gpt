@@ -56,10 +56,6 @@ const TrackPhase2Section = () => {
                 <Zap className="w-6 h-6 text-primary" />
               </div>
               
-              {/* Number display */}
-              <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 bg-gradient-to-r from-primary to-primary/80 text-white font-bold text-xl px-6 py-3 rounded-full shadow-lg">
-                10 mil → 100 mil
-              </div>
             </div>
           </div>
 
