@@ -30,7 +30,7 @@ const HeroSection = () => {
 
           {/* Main headline */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-[1.1] tracking-tight">
-            Do <span className="text-primary">zero</span> ao seu{" "}
+            Transforme seu <span className="text-primary">canal</span> em um{" "}
             <span className="relative inline-block">
               <span className="text-primary">negócio</span>
               <Sparkles className="absolute -top-4 -right-6 w-6 h-6 text-primary animate-pulse" />
