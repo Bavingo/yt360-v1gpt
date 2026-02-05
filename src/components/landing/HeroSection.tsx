@@ -59,21 +59,21 @@ const HeroSection = () => {
             <div className="relative group">
               <div className="absolute inset-0 bg-primary/20 rounded-2xl blur-xl group-hover:blur-2xl transition-all opacity-0 group-hover:opacity-100" />
               <div className="relative bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 transition-all group-hover:border-primary/30">
-                <p className="text-4xl md:text-5xl font-bold text-primary-foreground">29</p>
-                <p className="text-sm text-muted-foreground mt-1">Módulos</p>
+                <p className="text-4xl md:text-5xl font-bold text-primary-foreground">+16k</p>
+                <p className="text-sm text-muted-foreground mt-1">Alunos</p>
               </div>
             </div>
             <div className="relative group">
               <div className="absolute inset-0 bg-primary/20 rounded-2xl blur-xl group-hover:blur-2xl transition-all opacity-0 group-hover:opacity-100" />
               <div className="relative bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 transition-all group-hover:border-primary/30">
-                <p className="text-4xl md:text-5xl font-bold text-primary-foreground">3</p>
-                <p className="text-sm text-muted-foreground mt-1">Trilhas</p>
+                <p className="text-4xl md:text-5xl font-bold text-primary-foreground">1.4mi</p>
+                <p className="text-sm text-muted-foreground mt-1">de inscritos</p>
               </div>
             </div>
             <div className="relative group">
               <div className="absolute inset-0 bg-primary/20 rounded-2xl blur-xl group-hover:blur-2xl transition-all opacity-0 group-hover:opacity-100" />
               <div className="relative bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 transition-all group-hover:border-primary/30">
-                <p className="text-4xl md:text-5xl font-bold text-primary-foreground">10+</p>
+                <p className="text-4xl md:text-5xl font-bold text-primary-foreground">+10</p>
                 <p className="text-sm text-muted-foreground mt-1">Anos de Experiência</p>
               </div>
             </div>
