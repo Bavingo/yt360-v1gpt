@@ -83,10 +83,7 @@ const TrackPhase3Section = () => {
                 <Globe className="w-6 h-6 text-purple-400" />
               </div>
               
-              {/* Number display */}
-              <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 bg-gradient-to-r from-purple-500 to-purple-600 text-white font-bold text-xl px-6 py-3 rounded-full shadow-lg">
-                100 mil → 1 milhão
-              </div>
+          
             </div>
           </div>
         </div>
