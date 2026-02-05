@@ -33,17 +33,20 @@ const InstructorSection = () => {
             <div className="relative">
              {/* Main image container */}
 
-<div className="w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border border-white/10 shadow-2xl">
-  <img 
-    src="/placas.png"
-    alt="Caique Pereira - Fundador da Escola para YouTubers" 
-    className="w-full h-full object-cover object-top translate-y-4"
-  />
-</div>
+                <div className="relative w-72 h-72 md:w-96 md:h-96 flex items-center justify-center">
+  {/* Halo externo (fundinho cinza) */}
+  <div className="absolute inset-0 rounded-full bg-white/5"></div>
 
-
+  {/* Círculo com borda */}
+  <div className="relative w-full h-full rounded-full overflow-hidden border border-white/10 shadow-2xl">
+    <img 
+      src="/placas.png"
+      alt="Caique Pereira - Fundador da Escola para YouTubers" 
+      className="w-full h-full object-cover object-top translate-y-4"
+    />
   </div>
 </div>
+
 
               
               {/* Floating badge - top right - Dark background for contrast */}
