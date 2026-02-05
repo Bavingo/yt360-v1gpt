@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Users, Award, Youtube, ArrowRight, Sparkles } from "lucide-react";
+import { Youtube, ArrowRight, Sparkles } from "lucide-react";
 const HeroSection = () => {
   const scrollToPrice = () => {
     document.getElementById("preco")?.scrollIntoView({
