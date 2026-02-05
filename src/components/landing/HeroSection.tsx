@@ -37,7 +37,7 @@ const HeroSection = () => {
             </span>
             <br />
             <span className="text-muted-foreground text-3xl md:text-4xl lg:text-5xl font-normal mt-4 block">
-              O método completo para transformar seu canal no YouTube
+              O método completo para crescer, escalar e viver do seu canal no YouTube
             </span>
           </h1>
 
@@ -54,7 +54,7 @@ const HeroSection = () => {
               <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
             </Button>
             <p className="text-muted-foreground/60 text-sm">
-              Acesso por 2 anos • Grupo de alunos no WhatsApp • Suporte direto
+              Análise de canal • Grupo de alunos • Suporte via whatsapp
             </p>
           </div>
 
