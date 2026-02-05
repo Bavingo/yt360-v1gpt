@@ -1,6 +1,6 @@
 import { Badge } from "@/components/ui/badge";
 import { Youtube, Users, Award, CheckCircle2, Sparkles } from "lucide-react";
-import instrutorImg from "@/assets/instrutor-ricco.jpg";
+
 
 const credentials = [
   "Parceiro interno do YouTube",
