@@ -32,8 +32,8 @@ const InstructorSection = () => {
             
             <div className="relative">
              {/* Main image container */}
-<div className="w-72 h-72 md:w-96 md:h-96 rounded-full flex items-center justify-center bg-white/10 backdrop-blur-sm border-2 border-white/15 shadow-2xl">
-  <div className="w-[90%] h-[90%] rounded-full overflow-hidden">
+<div className="w-72 h-72 md:w-96 md:h-96 rounded-full flex items-center justify-center border border-white/10 shadow-2xl">
+  <div className="w-[96%] h-[96%] rounded-full overflow-hidden">
 <img 
   src="/placas.png"
   alt="Caique Pereira - Fundador da Escola para YouTubers" 
