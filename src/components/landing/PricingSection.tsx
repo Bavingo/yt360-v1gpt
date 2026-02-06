@@ -8,7 +8,7 @@ const PricingSection = () => {
   return (
     <section
       id="preco"
-      className="py-20 md:py-32 bg-foreground relative overflow-hidden"
+      className="pt-20 pb-6 bg-foreground relative overflow-hidden"
     >
       {/* Background glow */}
       <div className="absolute inset-0">
@@ -72,7 +72,7 @@ const PricingSection = () => {
 
 
 
-          <div className="mt-20">
+          <div className="mt-8">
   <FAQSection />
 </div>
 
