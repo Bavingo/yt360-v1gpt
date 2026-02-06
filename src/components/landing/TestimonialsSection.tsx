@@ -134,7 +134,7 @@ const TestimonialsSection = () => {
               ))}
             </div>
             <span className="text-muted-foreground">
-              <span className="text-primary-foreground font-bold">+1.000</span> alunos transformados
+              <span className="text-primary-foreground font-bold">+16.000</span> alunos transformados
             </span>
           </div>
         </div>
