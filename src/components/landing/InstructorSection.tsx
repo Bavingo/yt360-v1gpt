@@ -69,7 +69,7 @@ const InstructorSection = () => {
                       <Award className="w-6 h-6 text-white" />
                     </div>
                     <div>
-                      <p className="font-bold text-xl text-primary-foreground">10+ anos</p>
+                      <p className="font-bold text-xl text-primary-foreground">12+ anos</p>
                       <p className="text-xs text-muted-foreground">de YouTube</p>
                     </div>
                   </div>
@@ -82,17 +82,16 @@ const InstructorSection = () => {
           <div>
             <Badge className="bg-primary/20 border border-primary/40 text-primary mb-6 px-4 py-2 text-sm">
               <Sparkles className="w-4 h-4 mr-2" />
-              Conheça o instrutor
+              Conheça seu professor
             </Badge>
             <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6 leading-tight">
               Aprenda com quem vive de YouTube
-              <span className="text-primary block">há mais de 10 anos.</span>
+              <span className="text-primary block">há mais de 12 anos.</span>
             </h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
               Caique Pereira é o fundador da Escola para YouTubers, um dos maiores 
-              canais sobre criação de conteúdo no Brasil. Com mais de 1.4 milhões 
-              de inscritos, ele já ajudou milhares de pessoas a transformarem seus 
-              canais em negócios lucrativos.
+              canais sobre criação de conteúdo da américa latina. Com mais de 1.4 milhões 
+              de inscritos, ele é parceiro interno do Google e vai te mostrar o caminho.
             </p>
             
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6">
