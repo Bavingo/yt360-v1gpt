@@ -17,7 +17,7 @@ const testimonials = [
     icon: "🚀",
   },
   {
-    name: "Aluno",
+    name: "Arthur Souza",
     highlight: "21 mil inscritos",
     content: "Já são 21 mil, Caíque! E tem vídeo já com 60 mil! Não imaginava isso. Te agradeço pra caramba. Sucesso sempre, amigo!",
     result: "21K inscritos + vídeo viral",
