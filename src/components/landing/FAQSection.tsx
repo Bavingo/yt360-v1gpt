@@ -73,7 +73,7 @@ const FAQSection = () => {
           </Accordion>
 
           {/* Guarantee */}
-          <div className="mt-16 bg-card border border-primary/20 rounded-2xl p-8 text-center">
+          <div className="mt-16 bg-white/5 backdrop-blur-sm border border-primary/20 rounded-2xl p-8 text-center">
             <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
               <Shield className="w-8 h-8 text-primary" />
             </div>
