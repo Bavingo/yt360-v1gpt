@@ -62,7 +62,7 @@ const PricingSection = () => {
               hover:scale-105
             "
           >
-            <span className="text-2xl">📱</span>
+            <span className="text-2xl text-white">📞</span>
             Falar com um consultor
           </a>
 
