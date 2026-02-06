@@ -87,6 +87,12 @@ const HeroSection = () => {
           <div className="w-1 h-3 bg-white/40 rounded-full mt-2 animate-bounce" />
         </div>
       </div>
+
+{/* Transition fade to next section */}
+<div className="absolute bottom-0 left-0 right-0 h-64 pointer-events-none
+  bg-gradient-to-b from-transparent to-foreground" />
+
+    
     </section>;
 };
 export default HeroSection;
