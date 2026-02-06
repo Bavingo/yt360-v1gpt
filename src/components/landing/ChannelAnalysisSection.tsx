@@ -34,8 +34,7 @@ const ChannelAnalysisSection = () => {
               <span className="text-primary block">Personalizada</span>
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-              Receba um diagnóstico completo do seu canal com recomendações 
-              específicas para acelerar seu crescimento.
+              
             </p>
           </div>
 
@@ -83,7 +82,8 @@ const ChannelAnalysisSection = () => {
               {/* CTA inside */}
               <div className="mt-12 text-center">
                 <p className="text-primary font-bold text-2xl md:text-3xl mb-6">
-                  
+                  Receba um diagnóstico completo do seu canal com recomendações 
+                  específicas para acelerar seu crescimento.
                 </p>
                 <Button 
                   size="lg" 
