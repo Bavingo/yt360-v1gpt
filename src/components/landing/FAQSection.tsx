@@ -14,11 +14,11 @@ const faqs = [
   },
   {
     question: "Quanto tempo de acesso eu tenho?",
-    answer: "Você terá acesso por 2 anos ao curso completo. Isso significa que pode assistir quantas vezes quiser, no seu ritmo, e ainda terá acesso a todas as atualizações durante esse período.",
+    answer: "Você terá acesso por 2 anos ao curso completo. Isso significa que pode assistir quantas vezes quiser, no seu ritmo.",
   },
   {
     question: "O curso tem suporte?",
-    answer: "Sim! Você terá suporte direto no WhatsApp e acesso ao grupo de alunos no WhatsApp, onde pode tirar dúvidas e trocar experiências com outros criadores.",
+    answer: "Sim! Você terá suporte direto no WhatsApp e acesso ao grupo de alunos também, onde pode tirar dúvidas e trocar experiências com outros criadores.",
   },
   {
     question: "Funciona para qualquer nicho?",
@@ -30,11 +30,11 @@ const faqs = [
   },
   {
     question: "Como funciona o pagamento?",
-    answer: "Você pode pagar à vista com desconto ou parcelar em até 12x no cartão de crédito. Também aceitamos PIX e boleto para pagamento à vista. O acesso é liberado imediatamente após a confirmação do pagamento.",
+    answer: "Você pode pagar à vista com desconto ou parcelar em até 12x no cartão de crédito. Também aceitamos PIX pagamento à vista. O acesso é liberado imediatamente após a confirmação do pagamento.",
   },
   {
     question: "A análise de canal está realmente inclusa?",
-    answer: "Sim! Ao se inscrever, você receberá uma análise personalizada do seu canal com recomendações específicas para acelerar seu crescimento. É um bônus exclusivo para nossos alunos.",
+    answer: "Sim! Ao se inscrever, entraremos em contato com você, para pegar suas informações e link do canal para gerar uma análise personalizada do seu canal com recomendações específicas para acelerar seu crescimento. É um bônus exclusivo para nossos alunos.",
   },
 ];
 
