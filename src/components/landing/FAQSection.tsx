@@ -40,7 +40,7 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section id="faq" className="py-12 md:py-16 bg-transparent">
+    <section id="faq" className="pt-12 pb-2 bg-transparent">
       <div className="container px-4">
         <div className="text-center mb-10">
           <Badge variant="outline" className="mb-4 px-4 py-2">
@@ -80,7 +80,7 @@ const FAQSection = () => {
           </Accordion>
 
           {/* Guarantee */}
-          <div className="mt-8 bg-white/5 backdrop-blur-sm border border-primary/20 rounded-2xl p-8 text-center">
+          <div className="mt-6 mb-0 bg-white/5 backdrop-blur-sm border border-primary/20 rounded-2xl p-6 text-center">
             <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
               <Shield className="w-8 h-8 text-primary" />
             </div>
