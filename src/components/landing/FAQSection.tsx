@@ -44,13 +44,13 @@ const FAQSection = () => {
       <div className="container px-4">
         <div className="text-center mb-10">
           <Badge variant="outline" className="mb-4 px-4 py-2">
-            Perguntas Frequentes
+           
           </Badge>
           <h2 className="text-3xl md:text-5xl font-bold text-white mb-4">
-            Tire suas <span className="text-primary">dúvidas</span>
+            Perguntas <span className="text-primary">frequentes</span>
           </h2>
           <p className="text-lg text-white/70 max-w-2xl mx-auto">
-            Respondemos as perguntas mais comuns sobre o curso YouTuber 360.
+           
           </p>
         </div>
 
