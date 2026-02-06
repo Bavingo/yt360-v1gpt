@@ -88,9 +88,6 @@ const HeroSection = () => {
         </div>
       </div>
 
-{/* Transition fade to next section */}
-<div className="absolute bottom-0 left-0 right-0 h-64 pointer-events-none
-  bg-gradient-to-b from-transparent to-foreground" />
 
     
     </section>;
