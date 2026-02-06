@@ -70,7 +70,7 @@ const TestimonialsSection = () => {
             <span className="text-primary block">por si só</span>
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Veja o que alunos reais estão dizendo sobre suas transformações com o YouTuber 360.
+            Veja o que alunos reais estão dizendo sobre seus resultados.
           </p>
         </div>
 
@@ -134,7 +134,7 @@ const TestimonialsSection = () => {
               ))}
             </div>
             <span className="text-muted-foreground">
-              <span className="text-primary-foreground font-bold">+16.000</span> alunos transformados
+              <span className="text-primary-foreground font-bold">+16.000</span> alunos
             </span>
           </div>
         </div>
