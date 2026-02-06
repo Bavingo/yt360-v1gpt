@@ -81,7 +81,7 @@ const ChannelAnalysisSection = () => {
 
               {/* CTA inside */}
               <div className="mt-12 text-center">
-                <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
+                <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10">
                   Receba um diagnóstico completo do seu canal com recomendações 
                   específicas para acelerar seu crescimento.
                 </p>
