@@ -46,10 +46,10 @@ const FAQSection = () => {
           <Badge variant="outline" className="mb-4 px-4 py-2">
             Perguntas Frequentes
           </Badge>
-          <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
+          <h2 className="text-3xl md:text-5xl font-bold text-white mb-4">
             Tire suas <span className="text-primary">dúvidas</span>
           </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-lg text-white/70 max-w-2xl mx-auto">
             Respondemos as perguntas mais comuns sobre o curso YouTuber 360.
           </p>
         </div>
@@ -69,10 +69,10 @@ const FAQSection = () => {
 "
 
               >
-                <AccordionTrigger className="text-left font-semibold hover:no-underline py-6">
+                <AccordionTrigger className="text-left font-semibold text-white hover:no-underline py-6">
                   {faq.question}
                 </AccordionTrigger>
-                <AccordionContent className="text-muted-foreground pb-6">
+                <AccordionContent className="text-white/70 pb-6">
                   {faq.answer}
                 </AccordionContent>
               </AccordionItem>
@@ -84,10 +84,10 @@ const FAQSection = () => {
             <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
               <Shield className="w-8 h-8 text-primary" />
             </div>
-            <h3 className="text-2xl font-bold text-foreground mb-4">
+            <h3 className="text-2xl font-bold text-white mb-4">
               Garantia de 7 dias
             </h3>
-            <p className="text-muted-foreground max-w-xl mx-auto">
+            <p className="text-white/70 max-w-xl mx-auto">
               Se você não ficar 100% satisfeito com o curso, basta enviar uma mensagem no WhatsApp 
               nos primeiros 7 dias e devolvemos todo o seu dinheiro. Sem perguntas, 
               sem burocracia. O risco é zero.
