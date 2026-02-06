@@ -40,9 +40,9 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section id="faq" className="py-20 md:py-32 bg-transparent">
+    <section id="faq" className="py-12 md:py-16 bg-transparent">
       <div className="container px-4">
-        <div className="text-center mb-16">
+        <div className="text-center mb-10">
           <Badge variant="outline" className="mb-4 px-4 py-2">
             Perguntas Frequentes
           </Badge>
