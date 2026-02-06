@@ -10,7 +10,7 @@ const Footer = () => {
     <footer className="bg-foreground py-16">
       <div className="container px-4">
         {/* Final CTA */}
-        <div className="text-center mb-16 pb-16 border-b border-muted-foreground/20">
+        <div className="text-center mb-8 pb-8 border-b border-muted-foreground/20">
           <h2 className="text-2xl md:text-4xl font-bold text-primary-foreground mb-4">
             Pronto para transformar seu canal?
           </h2>
