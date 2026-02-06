@@ -70,7 +70,7 @@ const TestimonialsSection = () => {
             <span className="text-primary block">por si só</span>
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Veja o que alunos reais estão dizendo sobre seus resultados.
+            Veja o que alunos estão dizendo sobre seus resultados.
           </p>
         </div>
 
