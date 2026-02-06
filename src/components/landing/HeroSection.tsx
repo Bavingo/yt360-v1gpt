@@ -39,8 +39,8 @@ const HeroSection = () => {
           </h1>
 
           {/* Subtitle */}
-          <p className="text-lg md:text-xl text-muted-foreground/80 mb-12 max-w-3xl mx-auto leading-relaxed">
-            O método completo para crescer, escalar e viver do seu canal no YouTube
+          <p className="text-lg md:text-2xl text-muted-foreground/80 mb-12 max-w-4xl mx-auto leading-relaxed">
+            O método completo para crescer, escalar e viver do seu canal
           </p>
 
           {/* CTA */}
