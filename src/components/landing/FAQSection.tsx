@@ -43,9 +43,7 @@ const FAQSection = () => {
     <section id="faq" className="pt-12 pb-2 bg-transparent">
       <div className="container px-4">
         <div className="text-center mb-10">
-          <Badge variant="outline" className="mb-4 px-4 py-2">
-           
-          </Badge>
+         
           <h2 className="text-3xl md:text-5xl font-bold text-white mb-4">
             Perguntas <span className="text-primary">frequentes</span>
           </h2>
