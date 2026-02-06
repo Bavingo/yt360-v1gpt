@@ -4,13 +4,12 @@ import { CheckCircle2, Shield, Zap, Clock, CreditCard, ArrowRight, Gift, Star, L
 
 const benefits = [
   "Acesso por 2 anos ao curso completo",
-  "29 módulos em 3 trilhas de crescimento",
-  "Atualizações gratuitas durante o acesso",
+  "29 módulos em 3 fases de crescimento",
   "Grupo de alunos no WhatsApp",
-  "Suporte direto no WhatsApp",
+  "Suporte privado no WhatsApp",
   "Certificado de conclusão",
   "Análise de canal inclusa",
-  "Materiais complementares e templates",
+  "Materiais complementares",
 ];
 
 const PricingSection = () => {
@@ -32,11 +31,11 @@ const PricingSection = () => {
             Investimento
           </Badge>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-6 leading-tight">
-            Comece sua transformação
+            Comece sua jornada
             <span className="text-primary block">hoje mesmo</span>
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Um único investimento para dominar o YouTube do zero ao profissional.
+           
           </p>
         </div>
 
@@ -64,18 +63,18 @@ const PricingSection = () => {
                     {[...Array(5)].map((_, i) => (
                       <Star key={i} className="w-5 h-5 fill-primary text-primary" />
                     ))}
-                    <span className="text-muted-foreground ml-2 text-sm">+1.000 alunos</span>
+                    <span className="text-muted-foreground ml-2 text-sm">+16.000 alunos</span>
                   </div>
                 </div>
 
                 {/* Price */}
                 <div className="text-center mb-10 pb-8 border-b border-white/10">
-                  <p className="text-lg text-muted-foreground line-through mb-1">De R$ 1.997,00</p>
+                  <p className="text-lg text-muted-foreground line-through mb-1">De R$ 4.997,00</p>
                   <div className="flex items-baseline justify-center gap-2 mb-2">
                     <span className="text-xl text-muted-foreground">12x de</span>
-                    <span className="text-6xl md:text-7xl font-bold text-primary-foreground">R$ 97</span>
+                    <span className="text-6xl md:text-7xl font-bold text-primary-foreground">R$ 350</span>
                   </div>
-                  <p className="text-muted-foreground">ou R$ 997,00 à vista</p>
+                  <p className="text-muted-foreground">ou R$ 3.997,00 à vista</p>
                   <div className="mt-4 inline-flex items-center gap-2 bg-emerald-500/20 text-emerald-400 px-4 py-2 rounded-full text-sm font-semibold">
                     <CheckCircle2 className="w-4 h-4" />
                     Economia de R$ 1.000,00
@@ -135,7 +134,7 @@ const PricingSection = () => {
                       <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center">
                         <CreditCard className="w-5 h-5 text-emerald-400" />
                       </div>
-                      <span className="text-xs text-muted-foreground">12x s/ juros</span>
+                      <span className="text-xs text-muted-foreground">até 12x</span>
                     </div>
                   </div>
                 </div>
