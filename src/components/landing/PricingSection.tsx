@@ -1,6 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 import { BadgeCheck } from "lucide-react";
 import { Phone } from "lucide-react";
+import FAQSection from "./FAQSection";
 
 
 const PricingSection = () => {
@@ -69,6 +70,15 @@ const PricingSection = () => {
             Falar com um consultor
           </a>
 
+
+
+          <div className="mt-20">
+  <FAQSection />
+</div>
+
+
+
+          
         </div>
       </div>
     </section>
