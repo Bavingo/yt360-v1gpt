@@ -40,7 +40,7 @@ const faqs = [
 
 const FAQSection = () => {
   return (
-    <section id="faq" className="py-20 md:py-32 bg-muted/50">
+    <section id="faq" className="py-20 md:py-32 bg-transparent">
       <div className="container px-4">
         <div className="text-center mb-16">
           <Badge variant="outline" className="mb-4 px-4 py-2">
