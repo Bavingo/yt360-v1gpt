@@ -3,7 +3,7 @@ import { MessageCircle, TrendingUp, Star, Sparkles } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Aluno",
+    name: "Micael Santos",
     highlight: "Monetizado em 21 dias",
     content: "Ok vlw msm Caique, graças a vc consegui monetizar meu canal, em 21 dias de canal monetizado já fiz mais de 300 dólares",
     result: "+$300 em 21 dias",
@@ -24,23 +24,23 @@ const testimonials = [
     icon: "📈",
   },
   {
-    name: "Berlini Silva",
-    highlight: "Curso de vital importância",
-    content: "Finalmente, Valeu! Caique, seu curso foi de vital importância para isso.",
-    result: "Canal monetizado",
+    name: "Canal nada mais",
+    highlight: "100 mil inscritos",
+    content: "Essa semana estou comemorando 100k de inscritos, o número não é tão grande, mas me torna o maior canal de natação do Brasil em inscritos.",
+    result: "Placa de 100 mil inscritos",
     icon: "✅",
   },
   {
     name: "Emanuel Fillpin",
     highlight: "+2 mil inscritos em 1 mês",
     content: "Valeuu Caique, o curso me ajudou bastante!!! Consegui mais de 2 mil inscritos em apenas um mês...",
-    result: "59.915 views em 28 dias",
+    result: "59 mil views em 28 dias",
     icon: "🔥",
   },
   {
-    name: "Adenaldo Postal",
-    highlight: "400 para 40 mil",
-    content: "Meu canal subiu de 400 seguidores para 40 mil (em 3 meses!) uma loucura. Minhas visualizações, taxas de cliques e retenção cresceu exponencialmente.",
+    name: "Denis",
+    highlight: "370 mil inscritos",
+    content: "Comprei o curso e meu canal ta alavancando, to chegando a 370mil inscritos, obrigado irmão.",
     result: "100x de crescimento",
     icon: "💎",
   },
