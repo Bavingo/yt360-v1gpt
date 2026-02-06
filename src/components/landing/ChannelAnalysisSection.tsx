@@ -54,9 +54,6 @@ const ChannelAnalysisSection = () => {
                       <Search className="w-10 h-10 text-white" />
                     </div>
                     <h3 className="font-bold text-xl text-primary-foreground mb-3">Diagnóstico Completo</h3>
-                    <p className="text-muted-foreground">
-                      Analisamos cada detalhe do seu canal: thumbnails, títulos, SEO, conteúdo e posicionamento.
-                    </p>
                   </div>
                 </div>
 
@@ -68,9 +65,6 @@ const ChannelAnalysisSection = () => {
                       <Target className="w-10 h-10 text-white" />
                     </div>
                     <h3 className="font-bold text-xl text-primary-foreground mb-3">Plano de Ação</h3>
-                    <p className="text-muted-foreground">
-                      Receba um roadmap personalizado com estratégias específicas para seu nicho.
-                    </p>
                   </div>
                 </div>
 
@@ -82,9 +76,6 @@ const ChannelAnalysisSection = () => {
                       <MessageCircle className="w-10 h-10 text-white" />
                     </div>
                     <h3 className="font-bold text-xl text-primary-foreground mb-3">Feedback Direto</h3>
-                    <p className="text-muted-foreground">
-                      Orientação direta de especialistas com mais de 10 anos de experiência no YouTube.
-                    </p>
                   </div>
                 </div>
               </div>
@@ -92,7 +83,7 @@ const ChannelAnalysisSection = () => {
               {/* CTA inside */}
               <div className="mt-12 text-center">
                 <p className="text-primary font-bold text-2xl md:text-3xl mb-6">
-                  Isso sozinho já vale o investimento!
+                  
                 </p>
                 <Button 
                   size="lg" 
