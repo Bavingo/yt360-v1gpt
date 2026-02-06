@@ -1,5 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 import { BadgeCheck } from "lucide-react";
+import { Phone } from "lucide-react";
+
 
 const PricingSection = () => {
   return (
@@ -62,7 +64,8 @@ const PricingSection = () => {
               hover:scale-105
             "
           >
-            <span className="text-2xl text-white">📞</span>
+            <span className="text-2xl text-white"><Phone className="w-6 h-6 text-white" />
+</span>
             Falar com um consultor
           </a>
 
