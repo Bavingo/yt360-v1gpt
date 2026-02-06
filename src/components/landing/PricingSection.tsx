@@ -31,11 +31,7 @@ const PricingSection = () => {
       <div className="container px-4 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           
-          {/* Badge */}
-          <Badge className="bg-white/10 border border-white/20 text-primary-foreground mb-6 px-6 py-3 text-base">
-            <BadgeCheck className="w-5 h-5 mr-2" />
-            Investimento
-          </Badge>
+         
 
           {/* Headline */}
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-12 leading-tight">
