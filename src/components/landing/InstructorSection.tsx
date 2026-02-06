@@ -4,8 +4,8 @@ import { Youtube, Users, Award, CheckCircle2, Sparkles } from "lucide-react";
 
 const credentials = [
   "Parceiro interno do YouTube",
-  "Mais de 1.4 milhões de inscritos",
-  "Milhares de alunos transformados",
+  "+1.4 milhões de inscritos",
+  "+16 mil de alunos",
   "Método testado e validado por mais de uma década",
 ];
 
@@ -54,7 +54,7 @@ const InstructorSection = () => {
                       <Users className="w-6 h-6 text-white" />
                     </div>
                     <div>
-                      <p className="font-bold text-xl text-primary-foreground">1.4M+</p>
+                      <p className="font-bold text-xl text-primary-foreground">+1.4M</p>
                       <p className="text-xs text-muted-foreground">Inscritos</p>
                     </div>
                   </div>
@@ -69,7 +69,7 @@ const InstructorSection = () => {
                       <Award className="w-6 h-6 text-white" />
                     </div>
                     <div>
-                      <p className="font-bold text-xl text-primary-foreground">12+ anos</p>
+                      <p className="font-bold text-xl text-primary-foreground">+12 anos</p>
                       <p className="text-xs text-muted-foreground">de YouTube</p>
                     </div>
                   </div>
@@ -89,9 +89,8 @@ const InstructorSection = () => {
               <span className="text-primary block">há mais de 12 anos.</span>
             </h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              Caique Pereira é o fundador da Escola para YouTubers, um dos maiores 
-              canais sobre criação de conteúdo da américa latina. Com mais de 1.4 milhões 
-              de inscritos, ele é parceiro interno do Google e vai te mostrar o caminho.
+              Especialista em YouTube reconhecido e certificado pelo google, Caique Pereira é o fundador da Escola para YouTubers, um dos maiores 
+              canais sobre criação de conteúdo da américa latina.
             </p>
             
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6">
