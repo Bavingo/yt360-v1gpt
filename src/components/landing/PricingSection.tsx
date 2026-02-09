@@ -41,7 +41,7 @@ const PricingSection = () => {
 
           {/* CTA WhatsApp */}
           <a
-            href="https://wa.me/55SEUNUMEROAQUI"
+            href="https://wa.me/5511934276590?text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20o%20curso%20e%20análise%20de%20canal%20com%20o%20Caique."
             target="_blank"
             rel="noopener noreferrer"
             className="
