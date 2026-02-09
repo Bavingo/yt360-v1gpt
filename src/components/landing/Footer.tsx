@@ -38,31 +38,11 @@ const Footer = () => {
             </span>
           </div>
 
-          {/* Social links */}
-          <div className="flex items-center gap-4">
-            <a 
-              href="#" 
-              className="w-10 h-10 rounded-full bg-muted-foreground/20 flex items-center justify-center text-primary-foreground hover:bg-primary transition-colors"
-            >
-              <Youtube className="w-5 h-5" />
-            </a>
-            <a 
-              href="#" 
-              className="w-10 h-10 rounded-full bg-muted-foreground/20 flex items-center justify-center text-primary-foreground hover:bg-primary transition-colors"
-            >
-              <Instagram className="w-5 h-5" />
-            </a>
-            <a 
-              href="#" 
-              className="w-10 h-10 rounded-full bg-muted-foreground/20 flex items-center justify-center text-primary-foreground hover:bg-primary transition-colors"
-            >
-              <Twitter className="w-5 h-5" />
-            </a>
-          </div>
+        
 
           {/* Copyright */}
           <p className="text-sm text-muted-foreground">
-            © 2024 Escola para YouTubers. Todos os direitos reservados.
+            © 2026 Escola para YouTubers. Todos os direitos reservados.
           </p>
         </div>
       </div>
